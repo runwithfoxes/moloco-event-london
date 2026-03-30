@@ -6,7 +6,7 @@ export const eventConfig = {
   "venue": "Stafford hotel Wine Cellar, 16 St James's Pl, London SW1A 1NJ",
   "capacity": 40,
   "eventTitle": "VIP Connect — London Leadership Dinner",
-  "heroImageUrl": "/venue/long-table.png",
+  "heroImageUrl": "https://zxjuq10yjr13vx51.public.blob.vercel-storage.com/photos/moloco-event-london/the-stafford-wine-cellar-1-1400x590-1-e1558082926675.jpg",
   "heroHeadline": "VIP Connect",
   "heroSubheadline": "London Leadership Dinner",
   "heroDescription": "An invitation-only gathering for senior leaders shaping the future of commerce and machine learning.",
